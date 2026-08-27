@@ -1,7 +1,7 @@
 [submodule "pos_bir_cpti"]
     path = pos_bir_cpti
     url = git@github.com:courtesypoint/pos_bir.git
-    branch = v18/3.1.64.2-rd
+    branch = v18/v16-upg-3.1.64.3-rd
 
 [submodule "cpti-jtbanzuelo/Odoo18Test"]
 	path = cpti-jtbanzuelo/Odoo18Test
